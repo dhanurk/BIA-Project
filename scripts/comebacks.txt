@@ -1,0 +1,29 @@
+Team: Manchester United  Wins/Draws: 175  Comebacks: 41
+Team: Nottingham Forest  Wins/Draws: 103  Comebacks: 31
+Team: Aston Villa  Wins/Draws: 139  Comebacks: 28
+Team: Bolton Wanderers  Wins/Draws: 13  Comebacks: 4
+Team: Sheffield Wednesday  Wins/Draws: 135  Comebacks: 30
+Team: Liverpool  Wins/Draws: 146  Comebacks: 37
+Team: Coventry City  Wins/Draws: 125  Comebacks: 35
+Team: Manchester City  Wins/Draws: 99  Comebacks: 31
+Team: Sunderland  Wins/Draws: 20  Comebacks: 3
+Team: Everton  Wins/Draws: 120  Comebacks: 29
+Team: Swindon Town  Wins/Draws: 20  Comebacks: 11
+Team: Derby County  Wins/Draws: 24  Comebacks: 8
+Team: Leicester City  Wins/Draws: 40  Comebacks: 15
+Team: Southampton  Wins/Draws: 114  Comebacks: 33
+Team: Newcastle United  Wins/Draws: 123  Comebacks: 31
+Team: Norwich City  Wins/Draws: 82  Comebacks: 26
+Team: Ipswich Town  Wins/Draws: 66  Comebacks: 19
+Team: Milton Keynes Dons  Wins/Draws: 128  Comebacks: 40
+Team: Queens Park Rangers  Wins/Draws: 98  Comebacks: 27
+Team: Sheffield United  Wins/Draws: 50  Comebacks: 11
+Team: Oldham Athletic  Wins/Draws: 45  Comebacks: 12
+Team: Chelsea  Wins/Draws: 134  Comebacks: 29
+Team: Tottenham Hotspur  Wins/Draws: 129  Comebacks: 39
+Team: Leeds United  Wins/Draws: 137  Comebacks: 26
+Team: West Ham United  Wins/Draws: 95  Comebacks: 19
+Team: Arsenal  Wins/Draws: 145  Comebacks: 26
+Team: Crystal Palace  Wins/Draws: 50  Comebacks: 13
+Team: Middlesbrough  Wins/Draws: 65  Comebacks: 19
+Team: Blackburn Rovers  Wins/Draws: 149  Comebacks: 23
