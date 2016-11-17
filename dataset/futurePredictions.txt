@@ -1,0 +1,23 @@
+1) For all the matches in the last season, predict which team will win (classification). We will take the following things in consideration :
+	a) Home or away factor (factor generated from previous season results)
+	b) Result of last 5 matches (win, loss or draw factor)
+		- win%
+		- draw%
+	c) Result of a team against that team in previous meetings.
+		- win%
+		- draw%
+2) Predict whether a player will score, according to the following factors:
+	a) Number of goals in last 5 matches. (In form or out of form)
+	b) Number of goals against opposing team in previous meetings.  (Player's likeness for the opposing team)
+	c) Home or away factor (consider only those matches in which he played). 
+	
+	
+	
+
+
+	
+		
+
+
+
+
