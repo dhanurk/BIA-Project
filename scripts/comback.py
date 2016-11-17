@@ -18,6 +18,8 @@ for team in teamList:
         comeback = 0
         win = 0
         for i in range(0,len(objectList)):
+                comeback = 0
+                win = 0
 	        for key in objectList[i]['matches'].keys():
                         homeScoreTime = [999] * 10
                         awayScoreTime = [999] * 10
@@ -82,9 +84,7 @@ for team in teamList:
                                         if hTime < aTime:
                                                 comeback = comeback + 1
                                                 break
-        print "Team: " + str(team) + " ",
-        print "Wins/Draws: " + str(win) + " ",
-        print "Comebacks: " + str(comeback)
+                print "insert into comebacks (season, team, wins, comebacks) values ( '" + str(i) + "', '" + str(team) + "', '" + str(win) + "', '" + str(comeback) + "');"
 #homefactor,awayfactor,opponent team id,homefactor,awayfactor
 # 24 12 6
 # 27 11 4
